@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FFCE&background=1A1A1A00&center=true&vCenter=true&repeat=false&width=600&lines=Hi+There,+I'm+Lalkesh+Yaduvanshi+👋" alt="Typing SVG" />
+https://readme-typing-svg.demolab.com/demo/?lines=Hi%2C+I'm+Lalkesh+Yaduvanshi+%F0%9F%91%8B+Aspiring+Data+Scientist+Machine+Learning+Enthusiast+AI+%26+LLM+Learner+Python+%7C+SQL+%7C+Power+BI
 </p>
 
 ---
