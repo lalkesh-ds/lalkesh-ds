@@ -1,4 +1,4 @@
-https://readme-typing-svg.demolab.com/demo/?lines=Hi%2C+I'm+Lalkesh+Yaduvanshi+%F0%9F%91%8B+Aspiring+Data+Scientist+Machine+Learning+Enthusiast+AI+%26+LLM+Learner+Python+%7C+SQL+%7C+Power+BI
+
 </p>
 
 ---
