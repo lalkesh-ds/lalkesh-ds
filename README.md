@@ -1,3 +1,7 @@
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Lalkesh+Yaduvanshi+%F0%9F%91%8B;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Learning+Deep+Learning+%26+LLMs;Python+%7C+SQL+%7C+Power+BI;Building+Data-Driven+Solutions" alt="Typing SVG" />
+</a>
+
 # 💫 About Me:
 🔭 Currently building **real-world Data Science and Machine Learning projects**<br><br>👯 Open to collaborating on **AI, Machine Learning, Data Analytics and Open Source**<br><br>🤝 Seeking guidance in **Deep Learning, Large Language Models (LLMs) and MLOps**<br><br>🌱 Currently learning **Deep Learning, Generative AI and LLM Applications**<br><br>💬 Ask me about **Python • SQL • Power BI • Pandas • Scikit-learn • Data Visualization**<br><br>⚡ Fun fact: **I believe every dataset tells a story—my job is to uncover it.**
 
